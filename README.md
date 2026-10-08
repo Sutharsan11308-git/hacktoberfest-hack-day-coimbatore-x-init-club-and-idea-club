@@ -240,7 +240,7 @@ TruthLens AI provides probabilistic forensic analysis and should not be treated 
 
 ## Devpost Submission
 
-**Devpost Project:** [Devpost Project URL]
+**Devpost Project:** https://dev.to/sutharsan_325119804be5a80/building-truthlens-ai-explainable-image-analysis-with-gemma-4-om9
 
 The Devpost project page contains the project description, problem statement, solution, technology stack, demonstration materials, repository link, team information, and other required submission details.
 
