@@ -1,44 +1,54 @@
-# [Project Name]
+#  VeriSight
 
-> [One-line description of the project and what it does.]
+
+> VeriSight is an AI-powered platform that analyzes images and text to detect potentially fake, manipulated, or misleading content and provides clear, explainable results.
 
 ## Team
 
-**Team Name:** [Team Name]
+**Team Name:** Ghost Protocol
 
 
 | Member | Contribution   |
 | ------ | -------------- |
-| mithun | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
+| Sutharsan R |Frontend Development & UI/UX Design  |
+| Jai Nivas V |AI Detection Model Development & Evaluation|
+| Mithun Karthik Dhaneshkumar |Problem Research, Dataset Preparation & Solution Design|
+| Rohith N M |Gemma 4 12B Integration & AI Reasoning |
 
 
 ## Problem Statement
 
 ### The Problem
 
-[Describe the problem being addressed, who is affected by it, and the context in which it occurs.]
+The rapid advancement of generative AI has made it easier to create realistic AI-generated images and misleading text, making it difficult for people to distinguish genuine content from fake or manipulated information. This problem affects everyday internet users, students, organizations, and the general public, especially when misleading content spreads through social media, messaging platforms, online news, and other digital channels.
 
+In today’s digital environment, people consume and share large amounts of information every day, often without having the time or technical knowledge to verify its authenticity. The lack of simple, accessible, and explainable verification tools can lead users to believe, share, or act on false information.
 ### Why We Chose This Problem
 
-[Explain why the team selected this problem and why solving it is important.]
+We chose this problem because AI-generated and misleading content is becoming increasingly difficult to identify, while such content can spread rapidly across social media and online platforms. False information can influence people's decisions, create confusion, and cause real-world harm.
+
+We believe there is a need for a simple, accessible, and explainable solution that helps users evaluate suspicious images and text. Our goal is to use open-source AI not just to detect potentially fake content, but also to explain why it may be suspicious, helping users make more informed decisions.
 
 ## Solution
 
-[Describe the proposed solution and how it addresses the problem.]
+We propose an AI-powered content verification platform that analyzes images and text to identify potentially AI-generated, manipulated, or misleading content. Users can upload an image or enter text, and the system analyzes the content using AI models to detect suspicious patterns and misinformation.
+
+The platform uses Gemma 4 12B for intelligent text analysis and reasoning, along with image analysis techniques to evaluate visual content. Instead of providing only a “Fake” or “Real” result, the system provides a confidence score and clear explanations about why the content may be suspicious.
+
+This helps users quickly evaluate questionable content, understand the reasoning behind the result, and make more informed decisions before believing or sharing it.
 
 ### Key Features
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-- [Feature 4]
+- **AI-Generated Image Detection** — Analyze images to identify potential AI generation or manipulation.
+- **Misinformation Detection** — Analyze text to identify potentially false, misleading, or suspicious claims.
+- **Gemma 4 12B Reasoning** — Use an open-weight AI model to analyze content and provide meaningful explanations.
+- **Explainable Results** — Provide confidence scores and clear reasons behind the analysis instead of simply labeling content as “Fake” or “Real.”
 
 ## Innovation and Differentiation
 
-[Explain what is innovative about the approach and how it differs from existing or conventional solutions.]
+VeriSight goes beyond traditional “fake or real” detection by combining image analysis and text-based misinformation detection in a single platform. Instead of providing only a prediction, it uses Gemma 4 12B to reason about the analyzed content and provide users with understandable explanations, confidence levels and clear explanations.
+
+The key difference is its focus on explainable verification. Users can understand why content may be suspicious rather than simply receiving a binary result. This makes VeriSight more transparent, accessible, and useful for everyday users evaluating content encountered online.
 
 ## Technical Implementation
 
