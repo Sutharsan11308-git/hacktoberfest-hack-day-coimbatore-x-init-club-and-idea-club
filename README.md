@@ -73,7 +73,7 @@ flowchart TD
     K --> L[Display Results to User]
 ```
 
-[Add the system architecture or workflow Mermaid diagram here.]
+
 
 ### Technology Stack
 
