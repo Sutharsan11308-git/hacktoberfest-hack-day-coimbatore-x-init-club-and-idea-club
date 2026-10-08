@@ -53,6 +53,20 @@ The key difference is its focus on explainable verification. Users can understan
 ## Technical Implementation
 
 ### Architecture
+```mermaid
+graph TD
+    A[User Input] --> B{Content Type}
+    B -->|Image| C[Image Analysis]
+    B -->|Text| D[Text Analysis]
+    C --> E[AI Detection]
+    D --> F[Claim Analysis]
+    E --> G[Gemma 4 12B]
+    F --> G
+    G --> H[Contextual Reasoning]
+    H --> I[Confidence Assessment]
+    I --> J[Explainable Results]
+    J --> K[Final Result]
+```
 
 [Add the system architecture or workflow Mermaid diagram here.]
 
