@@ -117,13 +117,13 @@ The completed prototype demonstrates an end-to-end workflow from **image input â
 
 ## Working Application
 
-**Live Application:** [Add your deployed application URL]
+**Live Application:** Deployed Locally
 
 The application provides an interactive interface where users can upload an image for AI-powered deepfake and manipulation detection. The system analyzes the uploaded image and provides a confidence-based result along with an explanation of the detection.
 
 ## Demo Video
 
-**Demo Video:** [Add your demo video URL]
+**Demo Video:** https://youtu.be/PCBUWXBHMoY?si=xNPIyB_qXr5T7FBK
 
 The demo showcases the complete workflow of TruthLens, including image upload, AI-based analysis, Gemma 4 12B reasoning, and the final explainable verification result.
 
