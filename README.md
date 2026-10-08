@@ -4,15 +4,15 @@
 
 ## Team
 
-**Team Name:** [Team Name]
+**Team Name:** Ghost Protocol
 
 
 | Member | Contribution   |
 | ------ | -------------- |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
-| [Name] | [Contribution] |
+|Sutharsan R  | [Contribution] |
+| Jai Nivas V | [Contribution] |
+| Mithun Karthik Dhaneshkumar | [Contribution] |
+| Rohith N M | [Contribution] |
 
 
 ## Problem Statement
