@@ -9,7 +9,7 @@
 
 | Member | Contribution   |
 | ------ | -------------- |
-| [Name] | [Contribution] |
+| Mithuun | [Contribution] |
 | [Name] | [Contribution] |
 | [Name] | [Contribution] |
 | [Name] | [Contribution] |
